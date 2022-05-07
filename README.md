@@ -1,6 +1,15 @@
-# Unit 19 PWA Homework: Text Editor
+# 19 My PWA, Online Text Editor 
 
-## Your Task
+## Links
+
+[REPO on GitHub](https://github.com/MiinoSil/19-PWA-TXT-EDITOR-HW-GIT)
+
+[HEROKU deployment](https://ngo-jate-web-text-editor-app.herokuapp.com/)
+
+[REPO on HEROKU](https://git.heroku.com/ngo-jate-web-text-editor-app.git)
+
+## Table of Contents
+## Description
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
 
