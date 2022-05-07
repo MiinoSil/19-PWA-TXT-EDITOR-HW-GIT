@@ -46,6 +46,7 @@ export const getDb = async () => {
     } else {
       console.log('No content found in the database');
     }
+    return result.value;
   } catch(err) {
       console.log(err);
       console.error('getDb not implemented');

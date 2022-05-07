@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[PNG of app](./Assets/JATE-image.png)
+
 ## Links
 
 [REPO on GitHub](https://github.com/MiinoSil/19-PWA-TXT-EDITOR-HW-GIT)
